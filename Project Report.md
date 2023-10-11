@@ -114,25 +114,15 @@ B. Predicting Sleep Score:
 
 
 
-
-
-
-
-
-
-
-
 5. Code Files and Steps: 
 
-1. File: Extract_Data 
-   - Extract Data.
-2. File: Interpolate _Data 
+- File: Interpolate _Data 
    - Interpolate missing scores and temperatures.
-3. File:  Visualize_Data
+- File:  Visualize_Data
    - Plot scores vs. phase & cycle. 
-4. File: ttest_Data 
+- File: ttest_Data 
    - Apply t-test and ANOVA to see if there is a difference in scores across phases.
-5. File: TrainTest_Model
+- File: TrainTest_Model
    - Train and test.
 
 
