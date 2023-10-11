@@ -150,8 +150,10 @@ The results indicate that the menstrual cycle phase and temperature can be used 
 
 8. Next Steps:
 
-1. Expand the Dataset: Collect data from more individuals to create a more robust model.
-2. Feature Engineering: Explore other physiological parameters that might influence readiness and sleep scores. Or Explore tag features provided in both Natural cycles and Oura.
-4. Feedback Loop: Allow users to provide feedback on the accuracy of predictions to continuously improve the model.
+- Expand the Dataset: Collect data from more individuals to create a more robust model.
+
+-   Feature Engineering: Explore other physiological parameters that might influence readiness and sleep scores. Or Explore tag features provided in both Natural cycles and Oura.
+
+-Feedback Loop: Allow users to provide feedback on the accuracy of predictions to continuously improve the model.
 
 
