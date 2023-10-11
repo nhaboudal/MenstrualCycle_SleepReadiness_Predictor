@@ -14,19 +14,17 @@ The data consists of:
 
 ## Jupyter Notebooks and Descriptions
 
-1. **Oura_Extract_Data.ipynb**
-   - **Purpose:** Extracts data from the source, preparing it for further analysis.
 
-2. **Oura_Interpolate_Data.ipynb**
+2. **Interpolate_Data.ipynb**
    - **Purpose:** Interpolates missing scores and temperatures to ensure continuity in the dataset.
 
-3. **Oura_Visualize_Data.ipynb**
+3. **Visualize_Data.ipynb**
    - **Purpose:** Provides visualizations of scores against menstrual cycle phases and cycles, aiding in preliminary data analysis.
 
-4. **Oura_ttest_Data.ipynb**
+4. **ttest_Data.ipynb**
    - **Purpose:** Applies t-test and ANOVA to determine if there are significant differences in scores across menstrual cycle phases.
 
-5. **Oura_TrainTest_Model.ipynb**
+5. **TrainTest_Model.ipynb**
    - **Purpose:** Trains models to predict sleep and readiness scores and tests their performance.
 
 ## Requirements
